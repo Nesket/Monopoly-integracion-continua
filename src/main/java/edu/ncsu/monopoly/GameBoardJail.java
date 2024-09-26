@@ -13,7 +13,7 @@ public class GameBoardJail extends GameBoard {
 		
 		blue1.setName("Blue 1");
 		blue2.setName("Blue 2");
-		blue3.setName("Blue 3");
+		blue3.setName("Blue 3"); 
 		green1.setName("Green 1");
 		green2.setName("Green 2");
 		

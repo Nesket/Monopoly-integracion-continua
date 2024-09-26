@@ -12,6 +12,7 @@ public class UtilityCellTest extends TestCase {
 		gameMaster.reset();
 		gameMaster.setGUI(new MockGUI());
 	}
+	
     
     public void testMonopoly() {
         int u1CellIndex = gameMaster.getGameBoard().queryCellIndex("Utility 1");
